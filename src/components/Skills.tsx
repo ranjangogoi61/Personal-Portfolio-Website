@@ -77,8 +77,8 @@ export const Skills = memo(function Skills() {
             A curated toolkit, <span className="text-gradient">used in anger</span>.
           </h2>
           <p className="text-lg text-muted-foreground leading-relaxed">
-            No buzzword salad — just the tools I've shipped real, paying client work
-            with for years. Always learning, never collecting.
+            No buzzword salad — just the tools I actually build with every day.
+            Always learning, never collecting.
           </p>
         </motion.div>
 
